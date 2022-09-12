@@ -1,0 +1,1 @@
+flowSpeed = min(random(maxSpeed) + minSpeed, maxSpeed)
